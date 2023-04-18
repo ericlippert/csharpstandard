@@ -394,7 +394,7 @@
     - [§12.20.2](expressions.md#12202-ambiguities-in-query-expressions)  Ambiguities in query expressions
     - [§12.20.3](expressions.md#12203-query-expression-translation)  Query expression translation
       - [§12.20.3.1](expressions.md#122031-general)  General
-      - [§12.20.3.2](expressions.md#122032-select-and-group--by-clauses-with-continuations)  select and group … by clauses with continuations
+      - [§12.20.3.2](expressions.md#122032-query-expressions-with-continuations)  Query expressions with continuations
       - [§12.20.3.3](expressions.md#122033-explicit-range-variable-types)  Explicit range variable types
       - [§12.20.3.4](expressions.md#122034-degenerate-query-expressions)  Degenerate query expressions
       - [§12.20.3.5](expressions.md#122035-from-let-where-join-and-orderby-clauses)  From, let, where, join and orderby clauses
@@ -719,7 +719,7 @@
   - [§B.2](portability-issues.md#b2-undefined-behavior)  Undefined behavior
   - [§B.3](portability-issues.md#b3-implementation-defined-behavior)  Implementation-defined behavior
   - [§B.4](portability-issues.md#b4-unspecified-behavior)  Unspecified behavior
-  - [§B.5](portability-issues.md#b5-other-issues)  Other Issues
+  - [§B.5](portability-issues.md#b5-other-issues)  Other issues
 - [§C](standard-library.md#annex-c-standard-library)  Standard library
   - [§C.1](standard-library.md#c1-general)  General
   - [§C.2](standard-library.md#c2-standard-library-types-defined-in-isoiec-23271)  Standard Library Types defined in ISO/IEC 23271
